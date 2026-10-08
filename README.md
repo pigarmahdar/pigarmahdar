@@ -1,6 +1,6 @@
 # Hi, I'm Pigar 🐷
 
-I build small applications that sharpen a task I already care about — then keep
+I build small applications that sharpen a task I already care about. I do my best to keep
 improving them until they're good company. Most of what's here is vibe coded. I'm holistic about the models behind that: some projects are made with Google's Gemini, others with Qwen or Xiaomi MiMo. The tool matters less than what it lets me make.
 
 ## The thread
