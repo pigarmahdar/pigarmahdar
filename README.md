@@ -5,7 +5,7 @@ improving them until they're good company. Most of what's here is vibe coded. I'
 
 ## The thread
 
-I'm a trained counsellor and mental health practitioner, so my favourite
+I'm a trained counsellor and adult educator, and my current favourite
 projects sit where MTG meets journaling and thinking:
 
 - **[scryfall-local](https://github.com/pigarmahdar/scryfall-local)** — offline
