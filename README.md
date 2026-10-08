@@ -1,15 +1,11 @@
 # Hi, I'm Pigar 🐷
 
 I build small applications that sharpen a task I already care about — then keep
-improving them until they're good company.
-
-Most of what's here is vibe coded. I'm holistic about the models behind that:
-some projects are made with Google's Gemini, others with Qwen or Xiaomi MiMo.
-The tool matters less than what it lets me make.
+improving them until they're good company. Most of what's here is vibe coded. I'm holistic about the models behind that: some projects are made with Google's Gemini, others with Qwen or Xiaomi MiMo. The tool matters less than what it lets me make.
 
 ## The thread
 
-I'm a trained counsellor and a reflective practitioner, so my favourite
+I'm a trained counsellor and mental health practitioner, so my favourite
 projects sit where MTG meets journaling and thinking:
 
 - **[scryfall-local](https://github.com/pigarmahdar/scryfall-local)** — offline
@@ -23,7 +19,5 @@ projects sit where MTG meets journaling and thinking:
 
 ## Off the clock
 
-Essays and creative writing, visual arts, art curation. Tech-savvy, but the
-creative side isn't a side hobby — it's why the tools above look the way they do.
+Here at GitHub I'm just dabbling into the maze. I love to write essays and read up on visual arts and culture. I tend to make myself my own anthropological subject. Self-determined and tech-savvy with my creative side, it's probably why the tools above look the way they do.
 
-Dabbling into the maze.
