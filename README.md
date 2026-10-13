@@ -8,7 +8,7 @@ improving them until they're good company. Most of what's here is vibe coded. I'
 I'm a trained counsellor and adult educator, and my current favourite
 projects sit where MTG meets journaling and thinking:
 
-- **[scryfall-local](https://github.com/pigarmahdar/scryfall-local)** — offline
+- **[scry-terminal](https://github.com/pigarmahdar/scry-terminal)** — offline
   MTG card search from a local Scryfall cache, with LLMs layered on top for
   scale. The one I keep sharpening.
 - **[Reflective-Sideboard](https://github.com/pigarmahdar/Reflective-Sideboard)**
